@@ -3,7 +3,7 @@ package hello
 import (
 	"fmt"
 
-	cli "github.com/tejzpr/zcli/v2"
+	cli "github.com/urfave/cli/v2"
 	"github.com/tejzpr/zetools/commands"
 )
 
