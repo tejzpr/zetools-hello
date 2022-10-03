@@ -3,8 +3,8 @@ package hello
 import (
 	"fmt"
 
+	"github.com/tejzpr/commands-zetools"
 	cli "github.com/urfave/cli/v2"
-	"github.com/tejzpr/zetools/commands"
 )
 
 func init() {
